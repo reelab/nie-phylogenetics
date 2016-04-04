@@ -1,2 +1,1 @@
-# nie-phylogenetics
-NIE Phylogenetics for Ecologists, Spring 2016
+# NIE Phylogenetics for Ecologists, Spring 2016
